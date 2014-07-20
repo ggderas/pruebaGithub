@@ -12,6 +12,7 @@ C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\De
 C:\Users\LuisManuel Deras\Documents\pruebaGithub\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.exe.config
 C:\Users\LuisManuel Deras\Documents\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.exe
 C:\Users\LuisManuel Deras\Documents\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.pdb
+<<<<<<< HEAD
 =======
 C:\Users\Juan\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.exe.config
 C:\Users\Juan\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.exe
@@ -23,3 +24,8 @@ C:\Users\Juan\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\
 C:\Users\Juan\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.exe
 C:\Users\Juan\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.pdb
 >>>>>>> origin/CarlosASM
+=======
+C:\Users\Alexander\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.exe.config
+C:\Users\Alexander\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.exe
+C:\Users\Alexander\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.pdb
+>>>>>>> Sauli
