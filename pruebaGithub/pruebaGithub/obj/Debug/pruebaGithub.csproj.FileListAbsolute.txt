@@ -8,3 +8,6 @@ C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\De
 C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.csproj.GenerateResource.Cache
 C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.exe
 C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.pdb
+C:\Users\LuisManuel Deras\Documents\pruebaGithub\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.exe.config
+C:\Users\LuisManuel Deras\Documents\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.exe
+C:\Users\LuisManuel Deras\Documents\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.pdb
