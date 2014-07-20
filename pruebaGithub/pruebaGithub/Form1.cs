@@ -15,6 +15,15 @@ namespace pruebaGithub
         public Form1()
         {
             InitializeComponent();
+            Carolina();
+            Carlos CASM = new Carlos("SNSD", "Tiffany Hwang & Hayley Williams", "Calle 7", 7);
+        }
+
+        private void Carolina() {
+
+            Label lbl = new Label();
+            lbl.Text = "Hola Cejitas...";
+        
         }
     }
 }
