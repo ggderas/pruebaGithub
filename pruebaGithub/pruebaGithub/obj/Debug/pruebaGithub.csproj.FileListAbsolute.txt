@@ -1,1 +1,10 @@
 c:\users\luismanuel deras\documents\visual studio 2012\Projects\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.exe.config
+C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.exe.config
+C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.exe
+C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.pdb
+C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.csprojResolveAssemblyReference.cache
+C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.Form1.resources
+C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.Properties.Resources.resources
+C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.csproj.GenerateResource.Cache
+C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.exe
+C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.pdb

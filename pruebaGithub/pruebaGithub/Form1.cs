@@ -15,6 +15,14 @@ namespace pruebaGithub
         public Form1()
         {
             InitializeComponent();
+            Carolina();
+        }
+
+        private void Carolina() {
+
+            Label lbl = new Label();
+            lbl.Text = "Hola Cejitas...";
+        
         }
     }
 }
