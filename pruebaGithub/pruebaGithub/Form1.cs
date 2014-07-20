@@ -16,6 +16,7 @@ namespace pruebaGithub
         {
             InitializeComponent();
             Carolina();
+            Carlos CASM = new Carlos("SNSD", "Tiffany Hwang & Hayley Williams", "Calle 7", 7);
         }
 
         private void Carolina() {
