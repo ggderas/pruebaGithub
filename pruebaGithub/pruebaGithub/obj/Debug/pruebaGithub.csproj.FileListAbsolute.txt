@@ -9,6 +9,8 @@ C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\De
 C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.exe
 C:\Users\Carolina\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.pdb
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 C:\Users\LuisManuel Deras\Documents\pruebaGithub\pruebaGithub\pruebaGithub\bin\Debug\pruebaGithub.exe.config
 C:\Users\LuisManuel Deras\Documents\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.exe
 C:\Users\LuisManuel Deras\Documents\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.pdb
@@ -29,3 +31,4 @@ C:\Users\Alexander\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\bin\D
 C:\Users\Alexander\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.exe
 C:\Users\Alexander\Documents\GitHub\pruebaGithub\pruebaGithub\pruebaGithub\obj\Debug\pruebaGithub.pdb
 >>>>>>> Sauli
+>>>>>>> master
